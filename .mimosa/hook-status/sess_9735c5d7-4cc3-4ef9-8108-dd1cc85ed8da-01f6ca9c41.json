@@ -1,14 +1,14 @@
 {
   "schemaVersion": "mimosa-hook-status/v1",
-  "recordedAt": "2026-10-04T16:04:56.289Z",
+  "recordedAt": "2026-10-04T16:19:28.566Z",
   "sessionId": "sess_9735c5d7-4cc3-4ef9-8108-dd1cc85ed8da",
   "event": "PostToolUse",
   "toolName": "Write",
-  "file": "/e/ZCODE/pelican-glide/.gitignore",
+  "file": "/e/ZCODE/pelican-glide/index.html",
   "outcome": "clear",
   "coverage": "complete",
   "findingCount": 0,
-  "durationMs": 55,
+  "durationMs": 16,
   "hostState": "hook_complete",
   "reportHint": ".mimosa/reports/"
 }
